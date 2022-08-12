@@ -1,24 +1,4 @@
-# sald
-
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Satisfactory Layout Designer 
+A graphical node based tool to design layout plans for Coffee Stain's Satisfactory Game 
+ 
+Made in Vue 3
